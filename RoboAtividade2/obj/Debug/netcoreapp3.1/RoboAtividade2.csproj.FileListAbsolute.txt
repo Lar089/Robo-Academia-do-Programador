@@ -1,0 +1,13 @@
+C:\NDD\Robo\RoboAtividade2\bin\Debug\netcoreapp3.1\RoboAtividade2.exe
+C:\NDD\Robo\RoboAtividade2\bin\Debug\netcoreapp3.1\RoboAtividade2.deps.json
+C:\NDD\Robo\RoboAtividade2\bin\Debug\netcoreapp3.1\RoboAtividade2.runtimeconfig.json
+C:\NDD\Robo\RoboAtividade2\bin\Debug\netcoreapp3.1\RoboAtividade2.runtimeconfig.dev.json
+C:\NDD\Robo\RoboAtividade2\bin\Debug\netcoreapp3.1\RoboAtividade2.dll
+C:\NDD\Robo\RoboAtividade2\bin\Debug\netcoreapp3.1\RoboAtividade2.pdb
+C:\NDD\Robo\RoboAtividade2\obj\Debug\netcoreapp3.1\RoboAtividade2.csprojAssemblyReference.cache
+C:\NDD\Robo\RoboAtividade2\obj\Debug\netcoreapp3.1\RoboAtividade2.AssemblyInfoInputs.cache
+C:\NDD\Robo\RoboAtividade2\obj\Debug\netcoreapp3.1\RoboAtividade2.AssemblyInfo.cs
+C:\NDD\Robo\RoboAtividade2\obj\Debug\netcoreapp3.1\RoboAtividade2.csproj.CoreCompileInputs.cache
+C:\NDD\Robo\RoboAtividade2\obj\Debug\netcoreapp3.1\RoboAtividade2.dll
+C:\NDD\Robo\RoboAtividade2\obj\Debug\netcoreapp3.1\RoboAtividade2.pdb
+C:\NDD\Robo\RoboAtividade2\obj\Debug\netcoreapp3.1\RoboAtividade2.genruntimeconfig.cache
